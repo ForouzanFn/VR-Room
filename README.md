@@ -44,18 +44,8 @@ Experience the next level of realism in VR with interactive elements, multi-sens
 
 ---
 
-## 🚀 Technologies & Tools
-- VR SDKs (Unity / Unreal Engine – specify here if needed)
-- 3D Spatial Audio Integration
-- Haptics Feedback System
-- Physics-based Object Interaction
-- Custom Animation & SFX Pipeline
-
----
-
 ## 📸 Sneak Peek
 - 🎥 [Watch the Demo on YouTube](https://youtu.be/0e1mBVb3Gv8?si=6rOMqRl8a-IAsi4s)
-> *(Optional: Add GIFs or screenshots here to showcase some of the features in action.)*
 
 ---
 
